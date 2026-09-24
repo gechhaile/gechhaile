@@ -23,7 +23,7 @@ I am a PhD candidate in Artificial Intelligence at **Griffith University**, work
 - 🔬 **Current research:** explainable AI (XAI) for medical imaging
 - 🧠 **Interests:** vision transformers, interpretable deep learning, multimodal medical AI
 - 🌍 **Also working on:** AI for low-resource languages (Amharic image captioning)
-- 🎓 **Previously:** Jimma University, Ethiopia
+- 🎓 **Previously:** Researcher at the Euro-Mediterranean University of Fez, Morocco, and Lecturer at Jimma University, Ethiopia
 - 🤝 **Open to:** research collaborations in medical AI and computer vision
 
 ---
@@ -35,7 +35,7 @@ I am a PhD candidate in Artificial Intelligence at **Griffith University**, work
 | Post-hoc explanation methods | Skin cancer classification | Vision Transformers (ViT) | Amharic NLP |
 | Attention & saliency maps | Biomedical image analysis | CNN architectures | Image captioning |
 | Modality-aware XAI | Multimodal medical data | Transfer learning | Vision-language models |
-| Trustworthy AI evaluation | Clinical decision support | Image classification | Ge'ez script processing |
+| Trustworthy AI evaluation | Clinical decision support | Image classification | Image Captioning|
 
 ---
 
