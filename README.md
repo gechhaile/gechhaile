@@ -41,16 +41,27 @@ I am a PhD candidate in Artificial Intelligence at **Griffith University**, work
 
 ## 📄 Selected Publications
 
+- **MDeiT: A Lightweight and Explainable Hybrid Model for Cancer Classification in Histopathology Images**<br>
+  **G. H. Dagnaw**, Y. Zhu, Y. Wang, M. H. Maqsood, X. Yin, A. W.-C. Liew<br>
+  *Biomedical Signal Processing and Control, vol. 123, 110620, 2026* · [Paper](https://doi.org/10.1016/j.bspc.2025.110620)
+
+- **DCG-Net: Dual Cross-Attention with Concept-Value Graph Reasoning for Interpretable Medical Diagnosis**<br>
+  **G. H. Dagnaw**, X. Yin, M. H. Maqsood, Y. Zhu, A. W.-C. Liew<br>
+  *IEEE International Conference on Multimedia and Expo (ICME), 2026*
+
+- **Explainable Multimodal Hematology Analysis for White Blood Cell Classification and Attribute Prediction**<br>
+  **G. H. Dagnaw**, Y. Zhu, M. H. Maqsood, X. Yin, A. W.-C. Liew<br>
+  *Computers in Biology and Medicine, vol. 196, 110734, 2025* · [Paper](https://doi.org/10.1016/j.compbiomed.2025.110734)
+
 - **Explainable Artificial Intelligence in Biomedical Image Analysis: A Comprehensive Survey**<br>
   **G. H. Dagnaw**, Y. Zhu, M. H. Maqsood, W. Yang, X. Dong, X. Yin, A. W.-C. Liew<br>
   *arXiv preprint, 2025* · [Paper](https://arxiv.org/abs/2507.07148)
 
 - **Skin Cancer Classification Using Vision Transformers and Explainable Artificial Intelligence**<br>
   **G. H. Dagnaw**, M. El Mouhtadi, M. Mustapha<br>
-  *Journal of Medical Artificial Intelligence, vol. 7, 2024* · [Paper](https://jmai.amegroups.org/article/view/8962) · DOI: [10.21037/jmai-24-6](https://doi.org/10.21037/jmai-24-6)
+  *Journal of Medical Artificial Intelligence, vol. 7, 2024* · [Paper](https://jmai.amegroups.org/article/view/8962)
 
 📚 Full list on [Google Scholar](https://scholar.google.com/citations?user=hysM12MAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-4580-3133)
-
 ---
 
 ## 🚀 Featured Projects
