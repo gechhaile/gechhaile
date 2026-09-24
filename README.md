@@ -35,7 +35,7 @@ I am a PhD candidate in Artificial Intelligence at **Griffith University**, work
 | Post-hoc explanation methods | Skin cancer classification | Vision Transformers (ViT) | Amharic NLP |
 | Attention & saliency maps | Biomedical image analysis | CNN architectures | Image captioning |
 | Modality-aware XAI | Multimodal medical data | Transfer learning | Vision-language models |
-| Trustworthy AI evaluation | Clinical decision support | Image classification | Image Captioning|
+| Trustworthy AI evaluation | Clinical decision support | Image classification | VQA|
 
 ---
 
